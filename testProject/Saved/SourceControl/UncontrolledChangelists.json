@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Myatko/Desktop/project/testProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/RH/TKY29ZB4WLEWA6FTFRVW4S.uasset",
+				"C:/Users/Myatko/Desktop/project/testProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/9J/MHMC9S2WVL9EXBLBM9DMGG.uasset",
+				"C:/Users/Myatko/Desktop/project/testProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/YW/CJ3FYSTPQLH9FWD7BTSQUV.uasset",
+				"C:/Users/Myatko/Desktop/project/testProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/CR/DWH9BCQJ9CO9ZLUNYMNBDK.uasset",
+				"C:/Users/Myatko/Desktop/project/testProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/RU/TJI522G0MU99F7K2CH8ZX4.uasset",
+				"C:/Users/Myatko/Desktop/project/testProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/ME/QUE3ZCNY8JD3I48HUQEUKN.uasset"
+			]
+		}
+	]
+}
